@@ -9,5 +9,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LorenzoAmantea437&color=blueviolet" />
 </p>
-
-![footer](https://github.com/impablo0/impablo0/assets/132609298/999be41c-fff8-4036-adb0-009908570fd0)
